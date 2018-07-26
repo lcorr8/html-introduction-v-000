@@ -43,7 +43,7 @@ and a closing `p` tag.
 ```
 
 Elements, like our `p` tags above, won't be displayed in the browser. Instead,
-they affect how the content itself is displayed. Techonologists might say that
+they affect how the content itself is displayed. Technologists might say that
 the tags "affect how the content is rendered by the browser."
 
 We can also alter any number of attributes inside of the opening tags. For
@@ -146,7 +146,7 @@ with `h1` being the largest and `h6` being the smallest.
 In addition to changing how the text is displayed, search engines use headers
 to help determine what a web page is about. Remember, as Avi pointed out, when
 we provide _semantic_ markup, machines can infer the "main points" of a page. A
-well structured article will generally have its principle arguments bracketed
+well structured article will generally have its principal arguments bracketed
 by low-number header tags -- this very document does exactly that!
 
 #### Images
